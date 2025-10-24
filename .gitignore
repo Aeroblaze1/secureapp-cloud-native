@@ -1,0 +1,116 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+
+
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+.env.local
+.env.development.local
+
+
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables file
+.env.local
+
+
+# Serverless directories
+.serverless
+
+# DynamoDB Local files
+.dynamodb/
+
+
+
+# IntelliJ based IDEs
+.idea
+
+
+# Prisma
+# Keep environment variables out of version control
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+node_modules
+
+
+# dotenv environment variables file
+.env
+
+# Azure
+# Azure Functions artifacts
+bin
+obj
+appsettings.json
+local.settings.json
+
+# Azure Web Apps
+deployment/
+.publish/
+
+# GitHub Actions
+# GitHub Actions artifacts
+.github/workflows/*.log
+
+# Infrastructure scripts
+infrastructure/scripts/*.log
+
+# General
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build outputs
+build/
+dist/
+out/

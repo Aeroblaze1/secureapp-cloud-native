@@ -1,0 +1,4 @@
+- Resource Group name
+- App Service names
+- Database connection strings
+- URLs
